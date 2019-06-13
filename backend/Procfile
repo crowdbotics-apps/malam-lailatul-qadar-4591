@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT malam_lailatul_qadar_4591.wsgi:application

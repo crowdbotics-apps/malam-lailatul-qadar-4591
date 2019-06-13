@@ -1,0 +1,3 @@
+rootProject.name = 'malam_lailatul_qadar_4591'
+
+include ':app'
